@@ -2,7 +2,7 @@ name: Unit Test
 
 on:                 #git event that triggers the git flow
   push:
-    branches: [ master ]
+    branches: [ main ]
 
 jobs:             #on event trigger job is assigned 
   build:
