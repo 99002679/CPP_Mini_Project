@@ -16,6 +16,6 @@ jobs:
     - name: Install Cunit
       run: sudo apt-get -y install libcunit1 libcunit1-doc libcunit1-dev 
     - name: maketest
-      run:  make source
+      run:  make src
     - name: allout test
       run: chmod 777 src
