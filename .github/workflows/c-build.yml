@@ -20,4 +20,4 @@ jobs:
     - name: make test
       run: |
         make src
-        valgrind chmod 777 src/all.out
+        valgrind chmod 777 src
