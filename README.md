@@ -3,3 +3,6 @@
 
 ![cppcheck-action](https://github.com/99002679/CPP_Mini_Project/workflows/cppcheck-action/badge.svg?branch=main)
 
+![cppcheck-action](https://github.com/99002679/CPP_Mini_Project/workflows/cppcheck-action/badge.svg?branch=main)
+
+
